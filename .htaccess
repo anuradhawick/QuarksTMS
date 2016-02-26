@@ -1,0 +1,5 @@
+Options +FollowSymLinks
+RewriteEngine On
+ErrorDocument 404 /quarks/404.html
+ErrorDocument 403 /quarks/403.html
+Options All -Indexes
