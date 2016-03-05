@@ -11,4 +11,5 @@ if ($success === FALSE) {
     $auth->addUser($success, $employee_id);
     echo json_encode(TRUE);
 }
+
 ?>
